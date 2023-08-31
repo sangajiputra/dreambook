@@ -1,0 +1,16 @@
+<svg width="1440" height="574" viewBox="0 0 1440 574" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_783_1147" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="574">
+<rect width="1440" height="574" fill="#003282"/>
+</mask>
+<g mask="url(#mask0_783_1147)">
+<path d="M0 0H1440V574H0V0Z" fill="#002E24"/>
+<g opacity="0.2">
+<circle opacity="0.1" cx="1534.68" cy="-482.802" r="686.454" stroke="white" stroke-width="3"/>
+<circle opacity="0.1" cx="1719.73" cy="-652.105" r="686.454" stroke="white" stroke-width="3"/>
+<circle opacity="0.1" cx="1306.65" cy="-368.789" r="686.454" stroke="white" stroke-width="3"/>
+<circle opacity="0.1" cx="1127.33" cy="-292.411" r="727.41" stroke="white" stroke-width="3"/>
+<path opacity="0.1" d="M1728.78 -172.68C1728.78 282.026 1374.23 650.538 936.986 650.538C499.747 650.538 145.196 282.026 145.196 -172.68C145.196 -627.386 499.747 -995.897 936.986 -995.897C1374.23 -995.897 1728.78 -627.386 1728.78 -172.68Z" stroke="white" stroke-width="3"/>
+<path opacity="0.1" d="M1794.67 -151.39C1794.67 370.425 1364.63 793.482 834.086 793.482C303.546 793.482 -126.5 370.425 -126.5 -151.39C-126.5 -673.206 303.546 -1096.26 834.086 -1096.26C1364.63 -1096.26 1794.67 -673.206 1794.67 -151.39Z" stroke="white" stroke-width="3"/>
+</g>
+</g>
+</svg>
